@@ -3,9 +3,7 @@ Welcome to Proactive! Where you can quit procrastinating by using our Proactive 
 
 # HOW TO RUN THE APP
 
-This project was bootstrapped with [Create React App]
-
-In the project directory, you can run:
+once you create your workspace use these comands to run.
 
 ### `yarn start`
 
